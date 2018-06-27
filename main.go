@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/bin.jiang/deomapi/controller"
+	"github.com/Bin1997/deomapi/controller"
 	_ "github.com/go-sql-driver/mysql"
 
 	"github.com/gin-gonic/gin"
