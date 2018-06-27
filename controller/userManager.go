@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/jinzhu/gorm"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/bin.jiang/deomapi/entity"
+	"github.com/Bin1997/deomapi/entity"
 	"strconv"
 	"net/http"
 
